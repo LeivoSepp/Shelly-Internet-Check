@@ -1,5 +1,4 @@
 # Shelly Internet Check
-[Readme in Estonian](README-ET.md)
 
 This Shelly script monitors the internet connectivity and performs an off-on cycle on the relay if there is no internet connection for a specified number of checks.
 
